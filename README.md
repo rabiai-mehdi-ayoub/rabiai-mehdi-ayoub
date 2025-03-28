@@ -47,11 +47,17 @@
   About Me
 </h2>
 
-I'm a 2nd-year Data Science Master's student at the University of Algiers 1, passionate about artificial intelligence and its applications. 
-My experiences with computer vision, natural language processing, and machine learning have truly defined my passion. Working on ai projects  has shown me the transformative potential of AI in solving real-world problems.
+Hey there, and welcome.
 
-I continuously seek opportunities to challenge myself and expand my knowledge. Through university projects and internships, I aim to grow my skills while contributing to the ai community. 
+I’m Mehdi Ayoub Rabiai—a data scientist, a builder, and a believer in using technology to make something better, even if it's just one small part of the world. I’m passionate about AI not just because it’s powerful, but because it’s a space where curiosity, creativity, and discipline all collide. And in that collision, I’ve found something that feels like home.
 
+I don’t have all the answers, and I never claim to. I ask questions, I make mistakes, and I learn—always. I believe in putting in the work quietly, letting results speak, and lifting others when I can.
+
+This GitHub is where I share things I’ve built, ideas I’ve explored, and projects that challenged me to grow. Some of it’s polished. Some of it’s scrappy. But all of it is real.
+
+If something here helps you, teaches you, or sparks an idea—then it’s done its job.
+
+Thanks for stopping by.
 <br>
 
 <!-- Areas of Expertise Section -->
