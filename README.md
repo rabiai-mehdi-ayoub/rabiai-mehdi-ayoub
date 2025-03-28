@@ -1,10 +1,10 @@
 
 <!-- Custom Illustrated Header Panel with Hover Effect -->
 <!-- GitHub-Compatible Styled Image Panel -->
-
 <a href="Image1.giff">
-  <img src="\gg.png" alt="Fallout GIF" style="width:auto; height:auto; border-radius: 10px;" />
+  <img src="gg.png" alt="Fallout GIF" style="width:auto; height:auto; border-radius: 10px;" />
 </a>
+
 
 
 <!-- Introduction with Typing Animation -->
