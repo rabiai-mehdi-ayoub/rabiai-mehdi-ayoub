@@ -1,137 +1,128 @@
-<!-- TOP BANNER: Replace the GIF link below with your own if you prefer a different animation -->
+<!-- Banner or GIF at the Top (Optional) -->
 
-<!-- FANCY GRADIENT NAME HEADER (Note: GitHub sometimes ignores advanced CSS, but let's try!) -->
-<h1 align="center" style="font-size: 3em; font-weight: bold;">
-  <span style="
-    background: linear-gradient(to right, #36e964, #499bea);
-    -webkit-background-clip: text;
-    color: transparent;">
-    Rabiai Mehdi Ayoub
-  </span>
-</h1>
 
-<!-- SUBTITLE / TAGLINE -->
-<h3 align="center">AI Engineer | Researcher | Innovateur Enthousiaste 🤖</h3>
+<h1 align="center">Hey there, I'm <span style="color:#318CE7;">Rabiai Mehdi Ayoub</span> 👋</h1>
+<h3 align="center">AI Engineer | Researcher | Human-in-Progress 🤖</h3>
 
 ---
-<!-- ABOUT SECTION: English + Some French Flavor -->
-<p align="center">
-  <strong>Bonjour et bienvenue!</strong> I'm an <strong>AI Engineer</strong> with a passion for creating 
-  <em>cutting-edge</em> neural architectures and deep learning solutions. Quand je ne suis pas en train de 
-  coder, j’explore les dernières avancées en intelligence artificielle ou je peaufine de nouveaux projets 
-  de recherche. Here, you’ll find my work on advanced ML pipelines, medical image analysis, and 
-  natural language processing in Arabic (and beyond). 
-</p>
 
+<!-- Quick info / badges -->
 <p align="center">
-  Let’s push the frontiers of AI, one algorithm at a time!  
-</p>
-
----
-<!-- QUICK STATS / BADGES (optional) -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUserName&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=YourGitHubUserName&color=brightgreen&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/YourGitHubUserName?label=Follow&style=social" alt="GitHub Followers" />
-  <!-- Add or remove badges as you like -->
+  <!-- Add or remove any badges you like -->
+</p>
+
+<p align="center">
+  <em>
+    I’m an AI enthusiast who loves building intelligent systems and dabbling in cutting-edge research. From leveraging deep learning for medical imaging to taming the complexities of Arabic handwriting recognition, I'm always exploring ways to bridge AI innovations with real-world applications. 
+    <br/><br/>
+    When I’m not busy coding, you’ll probably find me reading up on the latest AI breakthroughs or tinkering with new ML frameworks. Let’s push the frontiers of AI together! 
+  </em>
 </p>
 
 ---
-## 🔬 Mes Recherches & Publications
+
+## 🔬 My Research & Publications
 
 1. **PAIS 2025 Conference Paper**  
    *Arabic Handwriting Recognition Using a Hybrid CNN-Transformer Model*  
-   - Présenté à **PAIS 2025** (International Conference).  
-   - Combine **Convolutional Neural Networks** & **Vision Transformers** for high-accuracy recognition of handwritten Arabic script.  
-   - **[Lire sur arXiv](https://arxiv.org/abs/2503.15023)**
+   - Presented at the **PAIS 2025** International Conference.  
+   - Proposed a **CNN + Vision Transformer** approach for high-accuracy recognition of handwritten Arabic script.  
+   - [Read on arXiv](https://arxiv.org/abs/2503.15023)
 
 2. **Intracranial Hemorrhage Detection Using Deep Learning**  
-   *En cours de rédaction*  
-   - Détection et classification automatiques des hémorragies intracrâniennes.  
-   - Utilise **EfficientNet** et des mécanismes d’**attention** pour améliorer la précision du diagnostic.  
-   - Soumission prévue prochainement—restez à l’écoute!
+   *In Progress*  
+   - Focuses on automatic detection and classification of ICH in brain scans.  
+   - Explores **EfficientNet** and **attention-based** neural architectures for enhanced diagnostic precision.  
+   - *Planned for submission soon – stay tuned!*
 
 3. **dzNLP at NADI 2024**  
    *Multi-label Country-Level Dialect Identification Using Ensemble Learning and TF-IDF Features*  
-   - **3ᵉ place** dans la compétition **NADI 2024**.  
-   - Classification multi-étiquettes des dialectes arabes, intégrant **TF-IDF** et modèles ensemblistes.  
-   - **[Lire sur arXiv](https://arxiv.org/abs/2407.13608)**
+   - Achieved **3rd place** at the **NADI 2024** competition.  
+   - Explores multi-label Arabic dialect classification with **ensemble** and **TF-IDF** features.  
+   - [Read on arXiv](https://arxiv.org/abs/2407.13608)
 
 ---
+
 ## ⚒️ Tech Toolbox
 
-<!--
-  If any icons don’t load, swap out the link with a known Devicon icon link or your own image.
-  (e.g., https://cdn.jsdelivr.net/gh/devicons/devicon/icons/<tech>/<tech>-original.svg)
--->
 <p align="center">
-  <!-- Row 1: Python, Java, C++, PHP, JS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="55" style="margin: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="55" style="margin: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" style="margin: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="55" style="margin: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" style="margin: 15px;"/>
+  <!-- Row 1 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="55" style="margin: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="55" style="margin: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" style="margin: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="55" style="margin: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" style="margin: 15px;"/>
 </p>
 
 <p align="center">
-  <!-- Row 2: HTML, CSS, PyTorch, Keras, TensorFlow -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="55" style="margin: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="55" style="margin: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="55" style="margin: 15px;"/>
+  <!-- Row 2 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="55" style="margin: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="55" style="margin: 15px;"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="55" style="margin: 15px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="55" style="margin: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="55" style="margin: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="55" style="margin: 15px;"/>
 </p>
 
 <p align="center">
-  <!-- Row 3: Scikit-Learn, NumPy, Pandas, Git, GitHub -->
+  <!-- Row 3 -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="90" style="margin: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="55" style="margin: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="55" style="margin: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55" style="margin: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="55" style="margin: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="55" style="margin: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="55" style="margin: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="55" style="margin: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="55" style="margin: 15px;"/>
 </p>
 
 <p align="center">
-  <!-- Row 4: Bash, Qt, Laravel -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="55" style="margin: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt" width="55" style="margin: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="60" style="margin: 15px;"/>
+  <!-- Row 4 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="55" style="margin: 15px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Qt_logo_2016.svg" alt="Qt" width="55" style="margin: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="55" style="margin: 15px;"/>
+  <!-- Add or remove anything else you want -->
 </p>
 
 ---
-## 🚀 Centres d’Intérêt Actuels
 
-- **AI de nouvelle génération**: Vision Transformers, modèles génératifs, et apprentissage auto-supervisé.  
-- **Imagerie Médicale**: Détection de maladies, diagnostic automatisé, et amélioration de la santé via l’IA.  
-- **Traitement Automatique du Langage (NLP)**: Classification et génération de texte, notamment pour l’arabe.  
-- **Futures Explorations**: IA quantique, IA multi-modale, et industrialisation rapide de prototypes de recherche.
+## 🚀 Current Interests
+
+- **Cutting-Edge AI**: Vision Transformers, generative models, and self-supervised learning.
+- **Healthcare & Medical Imaging**: Using AI to detect and classify diseases for faster, more accurate diagnostics.
+- **Arabic NLP**: Dialect classification, sentiment analysis, and text generation for Arabic-speaking communities.
+- **Future Explorations**: Quantum machine learning, multi-modal AI, and bridging the gap between research & production.
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Example Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUserName&show_icons=true&theme=radical" width="450" alt="Mehdi's GitHub Stats"/>
+  <!-- GitHub Stats Card (You can use your own style or the summary-cards approach) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUserName&show_icons=true&theme=tokyonight" width="450" alt="Mehdi's GitHub Stats"/>
 </p>
 
 <p align="center">
-  <!-- Example Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUserName&layout=compact&theme=radical" width="340" alt="Top Languages"/>
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUserName&layout=compact&theme=tokyonight" width="340" alt="Top Languages"/>
 </p>
 
 ---
-## 🤝 Connect With Me
 
-<p align="center">
+## 🤝 Connect with Me
+
+<p>
   <a href="mailto:YourEmail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/YourLinkedInProfile/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.researchgate.net/profile/YourResearchGateProfile">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate"/>
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
   </a>
-  <!-- Add or remove any platforms you want -->
+  <!-- Add more or fewer links as you prefer -->
 </p>
 
+---
 
+
+---
