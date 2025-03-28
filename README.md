@@ -1,7 +1,4 @@
 <!-- TOP BANNER: Replace the GIF link below with your own if you prefer a different animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="700" alt="Futuristic AI GIF"/>
-</p>
 
 <!-- FANCY GRADIENT NAME HEADER (Note: GitHub sometimes ignores advanced CSS, but let's try!) -->
 <h1 align="center" style="font-size: 3em; font-weight: bold;">
