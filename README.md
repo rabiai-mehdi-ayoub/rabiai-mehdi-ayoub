@@ -31,11 +31,8 @@
   <a href="https://www.linkedin.com/in/rabiai-mehdi-ayoub/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.researchgate.net/profile/your-profile">
+  <a href="https://www.researchgate.net/profile/Mehdi-Rabiai">
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate"/>
-  </a>
-  <a href="https://scholar.google.com/citations?user=your-id">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
   </a>
 </div>
 
