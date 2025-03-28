@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hey there, I'm <span style="color:#318CE7;">Rabiai Mehdi Ayoub</span> 👋</h1>
-<h3 align="center">AI Engineer | Researcher | Human-in-Progress 🤖</h3>
+<h3 align="center">AI Engineer | Researcher </h3>
 
 ---
 
