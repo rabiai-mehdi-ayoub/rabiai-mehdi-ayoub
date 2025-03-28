@@ -134,12 +134,4 @@
   <!-- Add or remove any platforms you want -->
 </p>
 
----
-<p align="center">
-  <em>"Le futur appartient à ceux qui repoussent les limites du possible—un algorithme à la fois."</em>
-</p>
 
-<p align="center">
-  <!-- Fun or Thematic GIF to End -->
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150" alt="Brain Sparkles"/>
-</p>
