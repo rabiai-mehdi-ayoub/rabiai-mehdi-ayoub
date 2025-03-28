@@ -13,13 +13,13 @@
 <!-- Profile Views and GitHub Stats -->
 <div align="center">
   <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=your-github-rabiai-mehdi-ayoub&label=Profile%20Views&color=9D50BB&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=rabiai-mehdi-ayoub&label=Profile%20Views&color=9D50BB&style=for-the-badge" alt="Profile Views"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/github/stars/your-github-rabiai-mehdi-ayoub&style=for-the-badge&logo=github&color=9D50BB&labelColor=333" alt="GitHub Stars"/>
+  <a href="https://github.com/rabiai-mehdi-ayoub?tab=stars">
+    <img src="https://img.shields.io/github/stars/rabiai-mehdi-ayoub?style=for-the-badge&logo=github&color=9D50BB&labelColor=333" alt="GitHub Stars"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/github/followers/your-github-rabiai-mehdi-ayoub&style=for-the-badge&logo=github&color=9D50BB&labelColor=333" alt="GitHub Followers"/>
+  <a href="https://github.com/rabiai-mehdi-ayoub?tab=followers">
+    <img src="https://img.shields.io/github/followers/rabiai-mehdi-ayoub?style=for-the-badge&logo=github&color=9D50BB&labelColor=333" alt="GitHub Followers"/>
   </a>
 </div>
 
