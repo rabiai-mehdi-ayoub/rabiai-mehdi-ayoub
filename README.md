@@ -67,7 +67,7 @@ I continuously seek opportunities to challenge myself and expand my knowledge. T
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Dark.svg" width="100" height="100" alt="PyTorch">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="100" height="100" alt="Keras">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/OpenCV-Dark.svg" width="100" height="100" alt="OpenCV">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sklearn-Dark.svg" width="100" height="100" alt="Scikit-learn">
+    <img src="Src\Scikitlearn.jpg" width="100" height="100" alt="Scikit-learn">
   </div>
 </div>
 
