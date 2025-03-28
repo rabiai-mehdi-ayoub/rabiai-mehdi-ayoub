@@ -1,34 +1,34 @@
 <!-- Header Banner with Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=200&section=header&text=Rabiai%20Mehdi%20Ayoub&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=AI%20Engineer%20|%20Researcher%20|%20ML%20Specialist&descAlignY=50&descSize=18" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E48AA,100:9D50BB&height=230&section=header&text=Mehdi%20Rabiai&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=AI%20Engineer%20|%20Data%20Scientist%20|%20Computer%20Vision%20Specialist&descAlignY=50&descSize=18" width="100%" alt="Header Banner"/>
 </div>
 
 <!-- Introduction with Typing Animation -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3A7BD5&center=true&vCenter=true&width=435&lines=AI+Engineer;Machine+Learning+Researcher;Computer+Vision+Specialist;NLP+Enthusiast;Deep+Learning+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9D50BB&center=true&vCenter=true&width=435&lines=AI+Research+Enthusiast;Computer+Vision+Expert;NLP+Specialist;Biometric+Systems+Developer;Deep+Learning+Engineer" alt="Typing SVG" />
   </a>
 </h1>
 
 <!-- Profile Views and GitHub Stats -->
 <div align="center">
   <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=3a7bd5&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=9D50BB&style=for-the-badge" alt="Profile Views"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/github/stars/your-github-username?style=for-the-badge&logo=github&color=3a7bd5&labelColor=333" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/github/stars/your-github-username?style=for-the-badge&logo=github&color=9D50BB&labelColor=333" alt="GitHub Stars"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/github/followers/your-github-username?style=for-the-badge&logo=github&color=3a7bd5&labelColor=333" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/your-github-username?style=for-the-badge&logo=github&color=9D50BB&labelColor=333" alt="GitHub Followers"/>
   </a>
 </div>
 
 <!-- Social Media Links -->
 <div align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:rabiaimehdiayoub@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/">
+  <a href="https://www.linkedin.com/in/rabiai-mehdi-ayoub/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.researchgate.net/profile/your-profile">
@@ -43,70 +43,234 @@
 
 <!-- About Me Section -->
 <h2>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM2OTU5MzQzMzk0YmNmMDk2MzM0ZDQ3MzBkZDM3ZTJlMDg0ZTZlYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/UVG0BN8TOMKkPOJS6e/giphy.gif" width="25"> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ1YTRkMzQ0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/hpXdHPfFI5wTABdDx9/giphy.gif" width="30"> 
   About Me
 </h2>
 
-I'm an AI Engineer and Researcher specializing in deep learning architectures and their applications in computer vision and natural language processing. My work focuses on developing innovative solutions that push the boundaries of what's possible with artificial intelligence.
+Passionate AI researcher and developer with expertise in computer vision, natural language processing, and biometric systems. My work focuses on developing innovative solutions that push the boundaries of artificial intelligence, particularly in Arabic handwriting recognition, medical image analysis, and dialect identification.
 
-With a strong foundation in both theoretical and applied machine learning, I've contributed to cutting-edge research in Arabic handwriting recognition, medical image analysis, and dialect identification. I'm passionate about creating AI systems that solve real-world problems and enhance human capabilities.
+With a strong foundation in both theoretical and applied machine learning, I've contributed to cutting-edge research achieving remarkable accuracy rates in various domains. I'm driven by a bold vision to become a thought leader in AI and am determined to contribute to a world transformed by artificial intelligence.
 
-When I'm not training neural networks or optimizing algorithms, I'm exploring the latest research papers, collaborating with fellow AI enthusiasts, or working on open-source projects that advance the field of artificial intelligence.
+Currently pursuing a Master's degree in Data Analysis and Science, I combine academic knowledge with practical experience in developing AI systems for real-world applications, from facial recognition authentication to fraud detection systems.
 
 <br>
 
-<!-- Expertise Section -->
+<!-- Areas of Expertise Section -->
 <h2>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJmNjBkMzYzZDM0ZDM0ZjM0ZjM0ZDM0ZjM0ZDM0ZjM0ZDM0ZjM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25"> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/juua9Kmq9qOuY/giphy.gif" width="30"> 
   Areas of Expertise
 </h2>
 
+<div align="left" style="display: flex;">
+  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="100" height="100" alt="Python">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Dark.svg" width="100" height="100" alt="TensorFlow">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Dark.svg" width="100" height="100" alt="PyTorch">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Keras-Dark.svg" width="100" height="100" alt="Keras">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/OpenCV-Dark.svg" width="100" height="100" alt="OpenCV">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sklearn-Dark.svg" width="100" height="100" alt="Scikit-learn">
+  </div>
+</div>
+
+<br>
+
 <div align="center">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzI0ZjM0ZDM0ZjM0ZDM0ZjM0ZDM0ZjM0ZDM0ZjM0ZDM0ZjM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100" height="100">
-        <br>
-        <strong>Artificial Intelligence</strong>
-        <br>
-        <small>Building intelligent systems that learn and adapt</small>
-      </td>
-      <td align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM0ZDM0ZjM0ZDM0ZjM0ZDM0ZjM0ZDM0ZjM0ZDM0ZjM0ZDM0ZjM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/KAq5w47R9rmTuvWOWa/giphy.gif" width="100" height="100">
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/gutZ5Pm6Xl62eIf5RZ/giphy.gif" width="90" height="90">
         <br>
         <strong>Machine Learning</strong>
         <br>
-        <small>Developing models that learn from data</small>
+        <small>Developing models that learn from data with precision and adaptability</small>
       </td>
-      <td align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM0ZjM0ZDM0ZjM0ZDM0ZjM0ZDM0ZjM0ZDM0ZjM0ZDM0ZjM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/SvFocn0wNMx0iv2rYz/giphy.gif" width="100" height="100">
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l46Cy1rHbQ92uuLXa/giphy.gif" width="90" height="90">
+        <br>
+        <strong>Computer Vision</strong>
+        <br>
+        <small>Teaching machines to see and understand visual information</small>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPEqDGUULpEU0aQ/giphy.gif" width="90" height="90">
         <br>
         <strong>Deep Learning</strong>
         <br>
-        <small>Creating neural networks for complex tasks</small>
+        <small>Building neural networks for complex pattern recognition</small>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQzNGYzNGQzNGYzNGQzNGYzNGQzNGYzNGQzNGYzNGQzNGYzNGQzNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l46Cy1rHbQ92uuLXa/giphy.gif" width="100" height="100">
-        <br>
-        <strong>Computer Vision</strong>
-        <br>
-        <small>Teaching machines to see and understand</small>
-      </td>
-      <td align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRmMzRkMzRmMzRkMzRmMzRkMzRmMzRkMzRmMzRkMzRmMzRkMzRkMzQmZXA9djFfaW50ZXJuYWxfZ2lmc19naWZJZCZjdD1n/LMt9638dO8dftAjtco/giphy.gif" width="100" height="100">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/RJVt4jwGVlGhZQtG0D/giphy.gif" width="90" height="90">
         <br>
         <strong>Natural Language Processing</strong>
         <br>
-        <small>Analyzing and generating human language</small>
+        <small>Analyzing and generating human language with AI</small>
       </td>
       <td align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM0ZjM0ZDM0ZjM0ZDM0ZjM0ZDM0ZjM0ZDM0ZjM0ZDM0ZjM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/dWesBcTLavkZuG35MI/giphy.gif" width="100" height="100">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/QMHoU66sBXqqLqYvGO/giphy.gif" width="90" height="90">
         <br>
-        <strong>Research & Publication</strong>
+        <strong>Data Science</strong>
         <br>
-        <small>Contributing to scientific advancement</small>
+        <small>Extracting insights and knowledge from structured and unstructured data</small>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xT9IgzoKnwFNmISR8I/giphy.gif" width="90" height="90">
+        <br>
+        <strong>Biometric Systems</strong>
+        <br>
+        <small>Developing advanced identification systems using biological traits</small>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<!-- Projects Section -->
+<h2>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/CwTvSiWbgxvUY/giphy.gif" width="30"> 
+  Featured Projects
+</h2>
+
+<div align="center">
+  <!-- Project 1 -->
+  <div style="border: 1px solid #9D50BB; border-radius: 10px; padding: 15px; margin: 15px; background: linear-gradient(135deg, rgba(109,72,170,0.1) 0%, rgba(157,80,187,0.1) 100%); display: inline-block; width: 85%; max-width: 700px; text-align: left;">
+    <h3 style="color: #9D50BB;">Arabic Handwriting Recognition System</h3>
+    <p><strong>PAIS 2025 International Conference</strong></p>
+    <p>Developed an OCR hybrid system combining CNNs and Transformers for fine classification of handwritten Arabic letters, achieving 96.38% accuracy on the IFN/ENIT dataset using an ensemble model (EfficientNet-B7 + ViT-B16).</p>
+    <p>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+      <img src="https://img.shields.io/badge/Computer_Vision-4479A1?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision">
+      <img src="https://img.shields.io/badge/Transformers-FFD700?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers">
+    </p>
+    <a href="https://arxiv.org/abs/2503.15023" target="_blank">
+      <img src="https://img.shields.io/badge/Read_Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="Read Paper">
+    </a>
+  </div>
+  
+  <!-- Project 2 -->
+  <div style="border: 1px solid #9D50BB; border-radius: 10px; padding: 15px; margin: 15px; background: linear-gradient(135deg, rgba(109,72,170,0.1) 0%, rgba(157,80,187,0.1) 100%); display: inline-block; width: 85%; max-width: 700px; text-align: left;">
+    <h3 style="color: #9D50BB;">DeepTweet: Arabic Dialect Classification</h3>
+    <p><strong>NADI Shared Tasks 2024 - 3rd Place</strong></p>
+    <p>Developed NLP models to identify Arabic dialects across 21 countries, designed to improve linguistic recognition and analysis with accuracy reaching 72%. Implemented multi-classifier ensemble with weighted voting and TF-IDF features.</p>
+    <p>
+      <img src="https://img.shields.io/badge/NLP-4285F4?style=flat-square&logo=natural-language-processing&logoColor=white" alt="NLP">
+      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+      <img src="https://img.shields.io/badge/Ensemble_Learning-3776AB?style=flat-square&logo=python&logoColor=white" alt="Ensemble Learning">
+      <img src="https://img.shields.io/badge/TF--IDF-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TF-IDF">
+    </p>
+    <a href="https://arxiv.org/abs/2407.13608" target="_blank">
+      <img src="https://img.shields.io/badge/Read_Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="Read Paper">
+    </a>
+  </div>
+  
+  <!-- Project 3 -->
+  <div style="border: 1px solid #9D50BB; border-radius: 10px; padding: 15px; margin: 15px; background: linear-gradient(135deg, rgba(109,72,170,0.1) 0%, rgba(157,80,187,0.1) 100%); display: inline-block; width: 85%; max-width: 700px; text-align: left;">
+    <h3 style="color: #9D50BB;">Intracranial Hemorrhage Detection System</h3>
+    <p><strong>Medical Imaging Research</strong></p>
+    <p>Developing deep learning models to identify intracranial hemorrhages from medical images. Analyzing and preprocessing over one million images from the RSNA dataset using big data techniques and computer vision.</p>
+    <p>
+      <img src="https://img.shields.io/badge/Deep_Learning-00AEFF?style=flat-square&logo=deep-learning&logoColor=white" alt="Deep Learning">
+      <img src="https://img.shields.io/badge/Medical_Imaging-16A085?style=flat-square&logo=healthcare&logoColor=white" alt="Medical Imaging">
+      <img src="https://img.shields.io/badge/Big_Data-FF6C37?style=flat-square&logo=apache-spark&logoColor=white" alt="Big Data">
+      <img src="https://img.shields.io/badge/Computer_Vision-4479A1?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision">
+    </p>
+    <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge" alt="Status">
+  </div>
+  
+  <!-- Project 4 -->
+  <div style="border: 1px solid #9D50BB; border-radius: 10px; padding: 15px; margin: 15px; background: linear-gradient(135deg, rgba(109,72,170,0.1) 0%, rgba(157,80,187,0.1) 100%); display: inline-block; width: 85%; max-width: 700px; text-align: left;">
+    <h3 style="color: #9D50BB;">Iris Recognition: Advanced Biometric Identification System</h3>
+    <p><strong>Academic Research Project</strong></p>
+    <p>Developed iris recognition systems using KNN, CNN, and Gabor filters with comprehensive preprocessing including segmentation, achieving up to 98% accuracy rate for biometric identification.</p>
+    <p>
+      <img src="https://img.shields.io/badge/Biometrics-5C2D91?style=flat-square&logo=biometrics&logoColor=white" alt="Biometrics">
+      <img src="https://img.shields.io/badge/CNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="CNN">
+      <img src="https://img.shields.io/badge/KNN-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="KNN">
+      <img src="https://img.shields.io/badge/Image_Processing-4479A1?style=flat-square&logo=opencv&logoColor=white" alt="Image Processing">
+    </p>
+    <img src="https://img.shields.io/badge/Accuracy-98%25-success?style=for-the-badge" alt="Accuracy">
+  </div>
+  
+  <!-- Project 5 -->
+  <div style="border: 1px solid #9D50BB; border-radius: 10px; padding: 15px; margin: 15px; background: linear-gradient(135deg, rgba(109,72,170,0.1) 0%, rgba(157,80,187,0.1) 100%); display: inline-block; width: 85%; max-width: 700px; text-align: left;">
+    <h3 style="color: #9D50BB;">Facial Recognition & Gesture Recognition System</h3>
+    <p><strong>Caisse Nationale des Retraites (CNR)</strong></p>
+    <p>Developed and integrated facial recognition technology for retiree authentication and an AI gesture recognition system with specific training. Created an ergonomic user interface with authentication and file management modules.</p>
+    <p>
+      <img src="https://img.shields.io/badge/Facial_Recognition-4285F4?style=flat-square&logo=google-lens&logoColor=white" alt="Facial Recognition">
+      <img src="https://img.shields.io/badge/Gesture_Recognition-00AEFF?style=flat-square&logo=computer-vision&logoColor=white" alt="Gesture Recognition">
+      <img src="https://img.shields.io/badge/Web_Development-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Web Development">
+      <img src="https://img.shields.io/badge/UI_Design-61DAFB?style=flat-square&logo=react&logoColor=black" alt="UI Design">
+    </p>
+    <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status">
+  </div>
+  
+  <!-- Project 6 -->
+  <div style="border: 1px solid #9D50BB; border-radius: 10px; padding: 15px; margin: 15px; background: linear-gradient(135deg, rgba(109,72,170,0.1) 0%, rgba(157,80,187,0.1) 100%); display: inline-block; width: 85%; max-width: 700px; text-align: left;">
+    <h3 style="color: #9D50BB;">Banking Fraud Detection System</h3>
+    <p><strong>Algeria E-Banking Services – Beyn.io</strong></p>
+    <p>Currently developing an advanced fraud detection system for electronic banking services, implementing machine learning algorithms to identify suspicious patterns and prevent fraudulent transactions.</p>
+    <p>
+      <img src="https://img.shields.io/badge/Fraud_Detection-FF6C37?style=flat-square&logo=databricks&logoColor=white" alt="Fraud Detection">
+      <img src="https://img.shields.io/badge/Banking-6DB33F?style=flat-square&logo=chase&logoColor=white" alt="Banking">
+      <img src="https://img.shields.io/badge/Security-D14836?style=flat-square&logo=security&logoColor=white" alt="Security">
+      <img src="https://img.shields.io/badge/Machine_Learning-3776AB?style=flat-square&logo=python&logoColor=white" alt="Machine Learning">
+    </p>
+    <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge" alt="Status">
+  </div>
+</div>
+
+<br>
+
+<!-- Education & Experience Section -->
+<h2>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/fwbZnTftCXVocKzfxR/giphy.gif" width="30"> 
+  Education & Experience
+</h2>
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0" style="width: 85%; max-width: 700px;">
+    <tr>
+      <td width="20%" align="center">
+        <img src="https://img.shields.io/badge/2023--Present-9D50BB?style=for-the-badge" alt="2023-Present">
+      </td>
+      <td width="80%">
+        <strong style="color: #9D50BB;">Master en Analyse et Sciences de Données</strong><br>
+        Université Benyoucef Benkhedda d'Alger, Algérie<br>
+        <small>Advanced studies in data analysis, machine learning, and AI applications</small>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/2020--2023-9D50BB?style=for-the-badge" alt="2020-2023">
+      </td>
+      <td>
+        <strong style="color: #9D50BB;">Licence en Systèmes Informatiques (SI)</strong><br>
+        Université Benyoucef Benkhedda d'Alger, Algérie<br>
+        <small>Foundation in computer systems, programming, and software development</small>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/2025--Present-6E48AA?style=for-the-badge" alt="2025-Present">
+      </td>
+      <td>
+        <strong style="color: #9D50BB;">Stagiaire en Solutions d'Intelligence Artificielle</strong><br>
+        Algeria E-Banking Services – Beyn.io<br>
+        <small>Developing fraud detection systems for electronic banking services</small>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/2023-6E48AA?style=for-the-badge" alt="2023">
+      </td>
+      <td>
+        <strong style="color: #9D50BB;">Stagiaire en Ingénierie Logicielle</strong><br>
+        Caisse Nationale des Retraites (CNR), Alger<br>
+        <small>Developed facial and gesture recognition systems for retiree authentication</small>
       </td>
     </tr>
   </table>
@@ -116,7 +280,7 @@ When I'm not training neural networks or optimizing algorithms, I'm exploring th
 
 <!-- Technologies & Tools Section -->
 <h2>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM0ZDM0ZjM0ZDM0ZjM0ZDM0ZjM0ZDM0ZjM0ZDM0ZjM0ZDM0ZjM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/uhQuegHFqkVYgFEQfG/giphy.gif" width="30"> 
   Technologies & Tools
 </h2>
 
@@ -126,8 +290,8 @@ When I'm not training neural networks or optimizing algorithms, I'm exploring th
   <h3>Programming Languages</h3>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -135,13 +299,14 @@ When I'm not training neural networks or optimizing algorithms, I'm exploring th
   </p>
   
   <!-- ML/DL Frameworks -->
-  <h3>ML/DL Frameworks</h3>
+  <h3>AI & ML Frameworks</h3>
   <p>
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
     <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
     <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   </p>
   
   <!-- Data Science Tools -->
@@ -152,6 +317,7 @@ When I'm not training neural networks or optimizing algorithms, I'm exploring th
     <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
     <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   </p>
   
   <!-- Development Tools -->
@@ -162,87 +328,90 @@ When I'm not training neural networks or optimizing algorithms, I'm exploring th
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-    <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
   </p>
 </div>
 
 <br>
 
-<!-- Research Publications Section -->
+<!-- Languages Section -->
 <h2>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM0ZjM0ZDM0ZjM0ZDM0ZjM0ZDM0ZjM0ZDM0ZjM0ZDM0ZjM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/VTtANKl0beDFQRLDTh/giphy.gif" width="25"> 
-  Research Publications
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LSRQSbALs5cUTpKcZx/giphy.gif" width="30"> 
+  Languages
 </h2>
 
 <div align="center">
-  <!-- Publication 1 -->
-  <div style="border: 1px solid #3a7bd5; border-radius: 10px; padding: 15px; margin: 10px; background: linear-gradient(to right, #f8f9fa, #e9ecef); display: inline-block; width: 80%; max-width: 600px; text-align: left;">
-    <h3 style="color: #3a7bd5;">Arabic Handwriting Recognition Using a Hybrid CNN-Transformer Model</h3>
-    <p><strong>PAIS 2025 International Conference</strong></p>
-    <p>A novel approach combining CNNs and Vision Transformers for Arabic handwriting recognition, achieving significant improvements over classical CNN approaches.</p>
-    <p><strong>Technologies:</strong> CNN, Vision Transformers, Deep Learning</p>
-    <a href="https://arxiv.org/abs/2503.15023" target="_blank">
-      <img src="https://img.shields.io/badge/Read_Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="Read Paper">
-    </a>
-  </div>
-  
-  <!-- Publication 2 -->
-  <div style="border: 1px solid #3a7bd5; border-radius: 10px; padding: 15px; margin: 10px; background: linear-gradient(to right, #f8f9fa, #e9ecef); display: inline-block; width: 80%; max-width: 600px; text-align: left;">
-    <h3 style="color: #3a7bd5;">Intracranial Hemorrhage Detection Using Deep Learning</h3>
-    <p><strong>In Progress</strong></p>
-    <p>Research focused on automatic detection and classification of intracranial hemorrhages in brain scans using advanced deep learning models.</p>
-    <p><strong>Technologies:</strong> EfficientNet, Attention Mechanisms, Medical Imaging</p>
-    <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge" alt="Status">
-  </div>
-  
-  <!-- Publication 3 -->
-  <div style="border: 1px solid #3a7bd5; border-radius: 10px; padding: 15px; margin: 10px; background: linear-gradient(to right, #f8f9fa, #e9ecef); display: inline-block; width: 80%; max-width: 600px; text-align: left;">
-    <h3 style="color: #3a7bd5;">dzNLP at NADI 2024: Multi-Classifier Ensemble with Weighted Voting and TF-IDF Features</h3>
-    <p><strong>ArabicNLP Conference - 3rd Place</strong></p>
-    <p>Multi-label Arabic dialect classification at the country level using ensemble techniques and TF-IDF representations.</p>
-    <p><strong>Technologies:</strong> NLP, Ensemble Learning, TF-IDF, Linear SVC, Random Forest, KNN</p>
-    <a href="https://arxiv.org/abs/2407.13608" target="_blank">
-      <img src="https://img.shields.io/badge/Read_Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="Read Paper">
-    </a>
-  </div>
+  <table border="0" cellspacing="0" cellpadding="0" style="width: 70%; max-width: 600px;">
+    <tr>
+      <td width="33%" align="center">
+        <img src="https://img.shields.io/badge/Arabic-Native-9D50BB?style=for-the-badge" alt="Arabic">
+        <div style="background: linear-gradient(to right, #9D50BB 100%, #E0E0E0 0%); height: 10px; border-radius: 5px; margin-top: 5px;"></div>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://img.shields.io/badge/French-C1-9D50BB?style=for-the-badge" alt="French">
+        <div style="background: linear-gradient(to right, #9D50BB 90%, #E0E0E0 10%); height: 10px; border-radius: 5px; margin-top: 5px;"></div>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://img.shields.io/badge/English-Advanced-9D50BB?style=for-the-badge" alt="English">
+        <div style="background: linear-gradient(to right, #9D50BB 85%, #E0E0E0 15%); height: 10px; border-radius: 5px; margin-top: 5px;"></div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<!-- Personal Skills Section -->
+<h2>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/VdoIFLsMIlwzfKD520/giphy.gif" width="30"> 
+  Personal Skills
+</h2>
+
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/Communication-9D50BB?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Communication" />
+    <img src="https://img.shields.io/badge/Adaptability-9D50BB?style=for-the-badge&logo=adaptivicon&logoColor=white" alt="Adaptability" />
+    <img src="https://img.shields.io/badge/Team_Work-9D50BB?style=for-the-badge&logo=teamspeak&logoColor=white" alt="Team Work" />
+    <img src="https://img.shields.io/badge/Time_Management-9D50BB?style=for-the-badge&logo=clockify&logoColor=white" alt="Time Management" />
+    <img src="https://img.shields.io/badge/Problem_Solving-9D50BB?style=for-the-badge&logo=probot&logoColor=white" alt="Problem Solving" />
+  </p>
 </div>
 
 <br>
 
 <!-- GitHub Stats Section -->
 <h2>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM0ZjM0ZDM0ZjM0ZDM0ZjM0ZDM0ZjM0ZDM0ZjM0ZDM0ZjM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/hO8uTzEOefFh3Yv5YN/giphy.gif" width="25"> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/hO8uTzEOefFh3Yv5YN/giphy.gif" width="30"> 
   GitHub Stats
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide=issues&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide=issues&theme=radical&bg_color=0D1117&title_color=9D50BB&icon_color=9D50BB&border_color=9D50BB" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&background=0D1117&ring=9D50BB&fire=9D50BB&currStreakLabel=9D50BB&border=9D50BB" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&bg_color=0D1117&title_color=9D50BB&border_color=9D50BB" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=nord&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="GitHub Trophies" />
 </div>
 
 <br>
 
 <!-- Footer Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=120&section=footer" width="100%" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E48AA,100:9D50BB&height=120&section=footer" width="100%" alt="Footer Banner"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=3A7BD5&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+build+something+amazing+together!" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=9D50BB&center=true&vCenter=true&width=500&lines=Passionate+about+pushing+the+boundaries+of+AI;Let's+connect+and+build+something+revolutionary+together!" alt="Footer Typing SVG" />
 </div>
 
 <!-- Note: Replace "your-github-username" with your actual GitHub username -->
-<!-- Note: Replace image URLs with your actual image URLs -->
 <!-- Note: Update social media links with your actual profile links -->
