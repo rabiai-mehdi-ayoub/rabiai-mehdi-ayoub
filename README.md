@@ -85,52 +85,41 @@ Thanks for stopping by.
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/gutZ5Pm6Xl62eIf5RZ/giphy.gif" width="90" height="90">
-        <br>
-        <strong>Machine Learning</strong>
-        <br>
-        <small>Developing models that learn from data with precision and adaptability</small>
+        <img src="https://media.giphy.com/media/gutZ5Pm6Xl62eIf5RZ/giphy.gif" width="90" height="90"><br>
+        <strong>Machine Learning</strong><br>
+        <small>Building scalable models that learn patterns and adapt to data.</small>
       </td>
       <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l46Cy1rHbQ92uuLXa/giphy.gif" width="90" height="90">
-        <br>
-        <strong>Computer Vision</strong>
-        <br>
-        <small>Teaching machines to see and understand visual information</small>
+        <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="90" height="90"><br>
+        <strong>Computer Vision</strong><br>
+        <small>Designing systems that extract meaning from images and video.</small>
       </td>
       <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPEqDGUULpEU0aQ/giphy.gif" width="90" height="90">
-        <br>
-        <strong>Deep Learning</strong>
-        <br>
-        <small>Building neural networks for complex pattern recognition</small>
+        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="90" height="90"><br>
+        <strong>Deep Learning</strong><br>
+        <small>Developing neural architectures for complex, high-dimensional tasks.</small>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/RJVt4jwGVlGhZQtG0D/giphy.gif" width="90" height="90">
-        <br>
-        <strong>Natural Language Processing</strong>
-        <br>
-        <small>Analyzing and generating human language with AI</small>
+        <img src="https://media.giphy.com/media/RJVt4jwGVlGhZQtG0D/giphy.gif" width="90" height="90"><br>
+        <strong>Natural Language Processing</strong><br>
+        <small>Working with text and language to build intelligent communication systems.</small>
       </td>
       <td align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/QMHoU66sBXqqLqYvGO/giphy.gif" width="90" height="90">
-        <br>
-        <strong>Data Science</strong>
-        <br>
-        <small>Extracting insights and knowledge from structured and unstructured data</small>
+        <img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="90" height="90"><br>
+        <strong>Data Science</strong><br>
+        <small>Extracting insight, building pipelines, and solving problems with data.</small>
       </td>
       <td align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xT9IgzoKnwFNmISR8I/giphy.gif" width="90" height="90">
-        <br>
-        <strong>Biometric Systems</strong>
-        <br>
-        <small>Developing advanced identification systems using biological traits</small>
+        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="90" height="90"><br>
+        <strong>Biometric Systems</strong><br>
+        <small>Engineering identity solutions using biological signals and secure design.</small>
       </td>
     </tr>
   </table>
 </div>
+
 
 <br>
 
