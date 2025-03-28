@@ -176,37 +176,35 @@ When I'm not training neural networks or optimizing algorithms, I'm exploring th
 </h2>
 
 <div align="center">
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-    <!-- Publication 1 -->
-    <div style="width: 45%; min-width: 300px; border: 1px solid #3a7bd5; border-radius: 10px; padding: 15px; margin: 10px; background: linear-gradient(to right, #f8f9fa, #e9ecef);">
-      <h3 style="color: #3a7bd5;">Arabic Handwriting Recognition Using a Hybrid CNN-Transformer Model</h3>
-      <p><strong>PAIS 2025 International Conference</strong></p>
-      <p>A novel approach combining CNNs and Vision Transformers for Arabic handwriting recognition, achieving significant improvements over classical CNN approaches.</p>
-      <p><strong>Technologies:</strong> CNN, Vision Transformers, Deep Learning</p>
-      <a href="https://arxiv.org/abs/2503.15023" target="_blank">
-        <img src="https://img.shields.io/badge/Read_Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="Read Paper">
-      </a>
-    </div>
-    
-    <!-- Publication 2 -->
-    <div style="width: 45%; min-width: 300px; border: 1px solid #3a7bd5; border-radius: 10px; padding: 15px; margin: 10px; background: linear-gradient(to right, #f8f9fa, #e9ecef);">
-      <h3 style="color: #3a7bd5;">Intracranial Hemorrhage Detection Using Deep Learning</h3>
-      <p><strong>In Progress</strong></p>
-      <p>Research focused on automatic detection and classification of intracranial hemorrhages in brain scans using advanced deep learning models.</p>
-      <p><strong>Technologies:</strong> EfficientNet, Attention Mechanisms, Medical Imaging</p>
-      <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge" alt="Status">
-    </div>
-    
-    <!-- Publication 3 -->
-    <div style="width: 45%; min-width: 300px; border: 1px solid #3a7bd5; border-radius: 10px; padding: 15px; margin: 10px; background: linear-gradient(to right, #f8f9fa, #e9ecef);">
-      <h3 style="color: #3a7bd5;">dzNLP at NADI 2024: Multi-Classifier Ensemble with Weighted Voting and TF-IDF Features</h3>
-      <p><strong>ArabicNLP Conference - 3rd Place</strong></p>
-      <p>Multi-label Arabic dialect classification at the country level using ensemble techniques and TF-IDF representations.</p>
-      <p><strong>Technologies:</strong> NLP, Ensemble Learning, TF-IDF, Linear SVC, Random Forest, KNN</p>
-      <a href="https://arxiv.org/abs/2407.13608" target="_blank">
-        <img src="https://img.shields.io/badge/Read_Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="Read Paper">
-      </a>
-    </div>
+  <!-- Publication 1 -->
+  <div style="border: 1px solid #3a7bd5; border-radius: 10px; padding: 15px; margin: 10px; background: linear-gradient(to right, #f8f9fa, #e9ecef); display: inline-block; width: 80%; max-width: 600px; text-align: left;">
+    <h3 style="color: #3a7bd5;">Arabic Handwriting Recognition Using a Hybrid CNN-Transformer Model</h3>
+    <p><strong>PAIS 2025 International Conference</strong></p>
+    <p>A novel approach combining CNNs and Vision Transformers for Arabic handwriting recognition, achieving significant improvements over classical CNN approaches.</p>
+    <p><strong>Technologies:</strong> CNN, Vision Transformers, Deep Learning</p>
+    <a href="https://arxiv.org/abs/2503.15023" target="_blank">
+      <img src="https://img.shields.io/badge/Read_Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="Read Paper">
+    </a>
+  </div>
+  
+  <!-- Publication 2 -->
+  <div style="border: 1px solid #3a7bd5; border-radius: 10px; padding: 15px; margin: 10px; background: linear-gradient(to right, #f8f9fa, #e9ecef); display: inline-block; width: 80%; max-width: 600px; text-align: left;">
+    <h3 style="color: #3a7bd5;">Intracranial Hemorrhage Detection Using Deep Learning</h3>
+    <p><strong>In Progress</strong></p>
+    <p>Research focused on automatic detection and classification of intracranial hemorrhages in brain scans using advanced deep learning models.</p>
+    <p><strong>Technologies:</strong> EfficientNet, Attention Mechanisms, Medical Imaging</p>
+    <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge" alt="Status">
+  </div>
+  
+  <!-- Publication 3 -->
+  <div style="border: 1px solid #3a7bd5; border-radius: 10px; padding: 15px; margin: 10px; background: linear-gradient(to right, #f8f9fa, #e9ecef); display: inline-block; width: 80%; max-width: 600px; text-align: left;">
+    <h3 style="color: #3a7bd5;">dzNLP at NADI 2024: Multi-Classifier Ensemble with Weighted Voting and TF-IDF Features</h3>
+    <p><strong>ArabicNLP Conference - 3rd Place</strong></p>
+    <p>Multi-label Arabic dialect classification at the country level using ensemble techniques and TF-IDF representations.</p>
+    <p><strong>Technologies:</strong> NLP, Ensemble Learning, TF-IDF, Linear SVC, Random Forest, KNN</p>
+    <a href="https://arxiv.org/abs/2407.13608" target="_blank">
+      <img src="https://img.shields.io/badge/Read_Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="Read Paper">
+    </a>
   </div>
 </div>
 
