@@ -10,31 +10,32 @@
   </a>
 </h1>
 
-<!-- Profile Views and GitHub Stats -->
-<div align="center">
+<!-- Profile Stats -->
+<div align="center" style="margin-bottom: 20px;">
   <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=rabiai-mehdi-ayoub&label=Profile%20Views&color=9D50BB&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=rabiai-mehdi-ayoub&label=Views&color=7F52FF&style=flat-square" alt="Profile Views"/>
   </a>
   <a href="https://github.com/rabiai-mehdi-ayoub?tab=stars">
-    <img src="https://img.shields.io/github/stars/rabiai-mehdi-ayoub?style=for-the-badge&logo=github&color=9D50BB&labelColor=333" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/github/stars/rabiai-mehdi-ayoub?style=flat-square&logo=github&color=7F52FF" alt="GitHub Stars"/>
   </a>
   <a href="https://github.com/rabiai-mehdi-ayoub?tab=followers">
-    <img src="https://img.shields.io/github/followers/rabiai-mehdi-ayoub?style=for-the-badge&logo=github&color=9D50BB&labelColor=333" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/rabiai-mehdi-ayoub?style=flat-square&logo=github&color=7F52FF" alt="GitHub Followers"/>
   </a>
 </div>
 
 <!-- Social Media Links -->
 <div align="center">
-  <a href="mailto:rabiaimehdiayoub@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:rabiaimehdiayoub@gmail.com" style="margin: 0 10px;" title="Email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/rabiai-mehdi-ayoub/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/rabiai-mehdi-ayoub/" style="margin: 0 10px;" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.researchgate.net/profile/Mehdi-Rabiai">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate"/>
+  <a href="https://www.researchgate.net/profile/Mehdi-Rabiai" style="margin: 0 10px;" title="ResearchGate">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white" alt="ResearchGate"/>
   </a>
 </div>
+
 
 <br>
 
