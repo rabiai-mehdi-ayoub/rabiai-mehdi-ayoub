@@ -377,29 +377,6 @@ Thanks for stopping by.
 
 <br>
 
-<!-- GitHub Stats Section -->
-<h2>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/hO8uTzEOefFh3Yv5YN/giphy.gif" width="30"> 
-  GitHub Stats
-</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide=issues&theme=radical&bg_color=0D1117&title_color=9D50BB&icon_color=9D50BB&border_color=9D50BB" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&background=0D1117&ring=9D50BB&fire=9D50BB&currStreakLabel=9D50BB&border=9D50BB" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&bg_color=0D1117&title_color=9D50BB&border_color=9D50BB" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="GitHub Trophies" />
-</div>
-
-<br>
 
 <!-- Footer Section -->
 <div align="center">
