@@ -13,13 +13,13 @@
 <!-- Profile Views and GitHub Stats -->
 <div align="center">
   <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=9D50BB&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=your-github-rabiai-mehdi-ayoub&label=Profile%20Views&color=9D50BB&style=for-the-badge" alt="Profile Views"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/github/stars/your-github-username?style=for-the-badge&logo=github&color=9D50BB&labelColor=333" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/github/stars/your-github-rabiai-mehdi-ayoub?style=for-the-badge&logo=github&color=9D50BB&labelColor=333" alt="GitHub Stars"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/github/followers/your-github-username?style=for-the-badge&logo=github&color=9D50BB&labelColor=333" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/your-github-rabiai-mehdi-ayoub?style=for-the-badge&logo=github&color=9D50BB&labelColor=333" alt="GitHub Followers"/>
   </a>
 </div>
 
