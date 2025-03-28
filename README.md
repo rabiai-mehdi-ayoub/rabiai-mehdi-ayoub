@@ -1,12 +1,12 @@
 <!-- Header Banner with Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E48AA,100:9D50BB&height=230&section=header&text=Mehdi%20Rabiai&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=AI%20Engineer%20|%20Data%20Scientist%20&descAlignY=50&descSize=18" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E48AA,100:9D50BB&height=230&section=header&text=Mehdi%20Rabiai&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Data%20Science%20Student%20|%20AI%20Enthusiast%20|%20Computer%20Vision%20Learner&descAlignY=50&descSize=18" width="100%" alt="Header Banner"/>
 </div>
 
 <!-- Introduction with Typing Animation -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9D50BB&center=true&vCenter=true&width=435&lines=AI+Research+Enthusiast;Computer+Vision+Expert;NLP+Specialist;Biometric+Systems+Developer;Deep+Learning+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9D50BB&center=true&vCenter=true&width=435&lines=AI+Research+Enthusiast;Curious+Problem+Solver;Continuous+Learner;Aspiring+Researcher;Passionate+About+Innovation" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -47,11 +47,11 @@
   About Me
 </h2>
 
-Passionate AI researcher and developer with expertise in computer vision, natural language processing, and biometric systems. My work focuses on developing innovative solutions that push the boundaries of artificial intelligence, particularly in Arabic handwriting recognition, medical image analysis, and dialect identification.
+I'm a 2nd-year Data Science Master's student at the University of Algiers 1, passionate about artificial intelligence and its applications. My academic journey began modestly, but each step has offered invaluable lessons that have shaped my understanding and enthusiasm for AI.
 
-With a strong foundation in both theoretical and applied machine learning, I've contributed to cutting-edge research achieving remarkable accuracy rates in various domains. I'm driven by a bold vision to become a thought leader in AI and am determined to contribute to a world transformed by artificial intelligence.
+My experiences with computer vision, natural language processing, and machine learning have truly defined my passion. Working on projects like Arabic handwriting recognition and dialect identification has shown me the transformative potential of AI in solving real-world problems.
 
-Currently pursuing a Master's degree in Data Analysis and Science, I combine academic knowledge with practical experience in developing AI systems for real-world applications, from facial recognition authentication to fraud detection systems.
+I continuously seek opportunities to challenge myself and expand my knowledge. Through university projects and internships, I aim to grow my skills while contributing meaningful solutions. My goal isn't to claim expertise, but rather to keep learning, exploring, and eventually contribute to advancing the field of artificial intelligence as a researcher.
 
 <br>
 
