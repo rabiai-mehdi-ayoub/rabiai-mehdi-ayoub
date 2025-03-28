@@ -1,7 +1,7 @@
 <!-- Header Banner with Animation -->
 <!-- Custom Illustrated Header Panel -->
 <div align="center">
-  <img src="gg.png" alt="Rabiai Mehdi Ayoub - Data Scientist" style="max-width: 100%; border-radius: 12px;" />
+  <img src="gg.png" alt="Rabiai Mehdi Ayoub - Data Scientist" style="max-width: 100%; border-radius: 30px;" />
 </div>
 
 <!-- Introduction with Typing Animation -->
