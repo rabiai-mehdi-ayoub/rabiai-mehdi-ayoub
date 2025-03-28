@@ -11,30 +11,37 @@
 </h1>
 
 <!-- Profile Stats -->
-<div align="center" style="margin-bottom: 20px;">
-  <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=rabiai-mehdi-ayoub&label=Views&color=7F52FF&style=flat-square" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/rabiai-mehdi-ayoub?tab=stars">
-    <img src="https://img.shields.io/github/stars/rabiai-mehdi-ayoub?style=flat-square&logo=github&color=7F52FF" alt="GitHub Stars"/>
-  </a>
-  <a href="https://github.com/rabiai-mehdi-ayoub?tab=followers">
-    <img src="https://img.shields.io/github/followers/rabiai-mehdi-ayoub?style=flat-square&logo=github&color=7F52FF" alt="GitHub Followers"/>
-  </a>
+<!-- Two-column layout -->
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; padding: 20px 0;">
+
+  <!-- Left: Profile Stats -->
+  <div style="flex: 1; min-width: 250px;">
+    <a href="#">
+      <img src="https://komarev.com/ghpvc/?username=rabiai-mehdi-ayoub&label=Views&color=7F52FF&style=flat-square" alt="Profile Views" style="margin-right: 10px;"/>
+    </a>
+    <a href="https://github.com/rabiai-mehdi-ayoub?tab=stars">
+      <img src="https://img.shields.io/github/stars/rabiai-mehdi-ayoub?style=flat-square&logo=github&color=7F52FF" alt="GitHub Stars" style="margin-right: 10px;"/>
+    </a>
+    <a href="https://github.com/rabiai-mehdi-ayoub?tab=followers">
+      <img src="https://img.shields.io/github/followers/rabiai-mehdi-ayoub?style=flat-square&logo=github&color=7F52FF" alt="GitHub Followers"/>
+    </a>
+  </div>
+
+  <!-- Right: Social Links -->
+  <div style="flex: 1; text-align: right; min-width: 250px;">
+    <a href="mailto:rabiaimehdiayoub@gmail.com" title="Email" style="margin-left: 10px;">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://www.linkedin.com/in/rabiai-mehdi-ayoub/" title="LinkedIn" style="margin-left: 10px;">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.researchgate.net/profile/Mehdi-Rabiai" title="ResearchGate" style="margin-left: 10px;">
+      <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white" alt="ResearchGate"/>
+    </a>
+  </div>
+
 </div>
 
-<!-- Social Media Links -->
-<div align="center">
-  <a href="mailto:rabiaimehdiayoub@gmail.com" style="margin: 0 10px;" title="Email">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rabiai-mehdi-ayoub/" style="margin: 0 10px;" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.researchgate.net/profile/Mehdi-Rabiai" style="margin: 0 10px;" title="ResearchGate">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white" alt="ResearchGate"/>
-  </a>
-</div>
 
 
 <br>
