@@ -1,4 +1,4 @@
-µ
+
 <!-- Custom Illustrated Header Panel with Hover Effect -->
 <!-- GitHub-Compatible Styled Image Panel -->
 
