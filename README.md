@@ -47,11 +47,10 @@
   About Me
 </h2>
 
-I'm a 2nd-year Data Science Master's student at the University of Algiers 1, passionate about artificial intelligence and its applications. My academic journey began modestly, but each step has offered invaluable lessons that have shaped my understanding and enthusiasm for AI.
+I'm a 2nd-year Data Science Master's student at the University of Algiers 1, passionate about artificial intelligence and its applications. 
+My experiences with computer vision, natural language processing, and machine learning have truly defined my passion. Working on ai projects  has shown me the transformative potential of AI in solving real-world problems.
 
-My experiences with computer vision, natural language processing, and machine learning have truly defined my passion. Working on projects like Arabic handwriting recognition and dialect identification has shown me the transformative potential of AI in solving real-world problems.
-
-I continuously seek opportunities to challenge myself and expand my knowledge. Through university projects and internships, I aim to grow my skills while contributing meaningful solutions. My goal isn't to claim expertise, but rather to keep learning, exploring, and eventually contribute to advancing the field of artificial intelligence as a researcher.
+I continuously seek opportunities to challenge myself and expand my knowledge. Through university projects and internships, I aim to grow my skills while contributing to the ai community. 
 
 <br>
 
