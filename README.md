@@ -3,7 +3,7 @@
 <!-- GitHub-Compatible Styled Image Panel -->
 
 <a href="Image1.giff">
-  <img src="Src\gg.png" alt="Fallout GIF" style="width:auto; height:auto"/>
+  <img src="\gg.png" alt="Fallout GIF" style="width:auto; height:auto"/>
 </a>
 
 <!-- Introduction with Typing Animation -->
