@@ -1,14 +1,10 @@
 µ
 <!-- Custom Illustrated Header Panel with Hover Effect -->
 <!-- GitHub-Compatible Styled Image Panel -->
-<div align="center">
-  <img 
-    src="gg.png"
-    alt="Rabiai Mehdi Ayoub - Data Scientist"
-    width="100%"
-    style="border-radius: 12px;" 
-  />
-</div>
+
+<a href="Image1.giff">
+  <img src="Src\gg.png" alt="Fallout GIF" style="width:auto; height:auto"/>
+</a>
 
 <!-- Introduction with Typing Animation -->
 <h1 align="center">
