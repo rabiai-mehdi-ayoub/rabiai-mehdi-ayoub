@@ -84,7 +84,7 @@ Thanks for stopping by.
 
 <div align="center">
   <a>
-    <img src="ai.png" width="900" height="500" alt="Scikit-learn">
+    <img src="ai.png" width="900" height="600" alt="Scikit-learn">
   </a>
 </div>
 
