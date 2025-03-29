@@ -96,7 +96,7 @@ Thanks for stopping by.
         <small>Designing systems that extract meaning from images and video.</small>
       </td>
       <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="90" height="90"><br>
+        <img src="/DEEPLEARNING.png" width="90" height="90"><br>
         <strong>Deep Learning</strong><br>
         <small>Developing neural architectures for complex, high-dimensional tasks.</small>
       </td>
