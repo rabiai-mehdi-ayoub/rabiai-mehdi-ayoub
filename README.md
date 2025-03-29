@@ -78,9 +78,7 @@ Thanks for stopping by.
   </div>
 </div>
 
-<br>
 
-<br>
 
 <div align="center">
   <a>
