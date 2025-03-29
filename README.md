@@ -137,7 +137,7 @@ Thanks for stopping by.
     </td>
   </tr>
   <tr style="background-color: #060910;">
-    <td>
+    <td style="background-color: #060910;">
       <div align="center">
         <h3 style="color: #9D50BB;">Iris Recognition: Advanced Biometric Identification System</h3>
         <p><strong>Academic Research Project</strong></p>
