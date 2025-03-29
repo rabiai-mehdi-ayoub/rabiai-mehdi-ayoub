@@ -63,7 +63,6 @@ Thanks for stopping by.
 
 <!-- Areas of Expertise Section -->
 <h2>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/juua9Kmq9qOuY/giphy.gif" width="30"> 
   Areas of Expertise
 </h2>
 
@@ -83,7 +82,6 @@ Thanks for stopping by.
 
 
 <h2>
-  <img src="https://media.giphy.com/media/CwTvSiWbgxvUY/giphy.gif" width="30"> 
   Featured Projects
 </h2>
 
@@ -185,8 +183,7 @@ Thanks for stopping by.
 
 
 <!-- Education & Experience Section -->
-<h2>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/fwbZnTftCXVocKzfxR/giphy.gif" width="30"> 
+<h2> 
   Education & Experience
 </h2>
 
@@ -239,7 +236,6 @@ Thanks for stopping by.
 
 <!-- Technologies & Tools Section -->
 <h2>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/uhQuegHFqkVYgFEQfG/giphy.gif" width="30"> 
   Technologies & Tools
 </h2>
 
@@ -296,7 +292,6 @@ Thanks for stopping by.
 
 <!-- Languages Section -->
 <h2>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LSRQSbALs5cUTpKcZx/giphy.gif" width="30"> 
   Languages
 </h2>
 
@@ -323,7 +318,7 @@ Thanks for stopping by.
 
 <!-- Personal Skills Section -->
 <h2>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/VdoIFLsMIlwzfKD520/giphy.gif" width="30"> 
+
   Personal Skills
 </h2>
 
