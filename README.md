@@ -88,7 +88,7 @@ Thanks for stopping by.
 </h2>
 
 <table>
-  <tr style="background-color: #060910;">
+  <tr>
     <td>
       <div align="center">
         <h3 style="color: #9D50BB;">Arabic Handwriting Recognition System</h3>
@@ -136,8 +136,8 @@ Thanks for stopping by.
       </div>
     </td>
   </tr>
-  <tr style="background-color: #060910;">
-    <td style="background-color: #060910;">
+  <tr >
+    <td>
       <div align="center">
         <h3 style="color: #9D50BB;">Iris Recognition: Advanced Biometric Identification System</h3>
         <p><strong>Academic Research Project</strong></p>
