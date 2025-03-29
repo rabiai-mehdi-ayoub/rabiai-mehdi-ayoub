@@ -58,8 +58,6 @@ I don’t have all the answers, and I never claim to. I ask questions, I make mi
 
 This GitHub is where I share things I’ve built, ideas I’ve explored, and projects that challenged me to grow. Some of it’s polished. Some of it’s scrappy. But all of it is real.
 
-If something here helps you, teaches you, or sparks an idea—then it’s done its job.
-
 Thanks for stopping by.
 <br>
 
