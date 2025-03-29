@@ -93,105 +93,100 @@ Thanks for stopping by.
 
 
 
-<br>
-
-<!-- Projects Section -->
 <h2>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/CwTvSiWbgxvUY/giphy.gif" width="30"> 
+  <img src="https://media.giphy.com/media/CwTvSiWbgxvUY/giphy.gif" width="30"> 
   Featured Projects
 </h2>
 
-<div align="center">
-  <!-- Project 1 -->
-  <div style="border: 1px solid #9D50BB; border-radius: 10px; padding: 15px; margin: 15px; background: linear-gradient(135deg, rgba(109,72,170,0.1) 0%, rgba(157,80,187,0.1) 100%); display: inline-block; width: 85%; max-width: 700px; text-align: left;">
-    <h3 style="color: #9D50BB;">Arabic Handwriting Recognition System</h3>
-    <p><strong>PAIS 2025 International Conference</strong></p>
-    <p>Developed an OCR hybrid system combining CNNs and Transformers for fine classification of handwritten Arabic letters, achieving 96.38% accuracy on the IFN/ENIT dataset using an ensemble model (EfficientNet-B7 + ViT-B16).</p>
-    <p>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
-      <img src="https://img.shields.io/badge/Computer_Vision-4479A1?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision">
-      <img src="https://img.shields.io/badge/Transformers-FFD700?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers">
-    </p>
-    <a href="https://arxiv.org/abs/2503.15023" target="_blank">
-      <img src="https://img.shields.io/badge/Read_Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="Read Paper">
-    </a>
-  </div>
-  
-  <!-- Project 2 -->
-  <div style="border: 1px solid #9D50BB; border-radius: 10px; padding: 15px; margin: 15px; background: linear-gradient(135deg, rgba(109,72,170,0.1) 0%, rgba(157,80,187,0.1) 100%); display: inline-block; width: 85%; max-width: 700px; text-align: left;">
-    <h3 style="color: #9D50BB;">DeepTweet: Arabic Dialect Classification</h3>
-    <p><strong>NADI Shared Tasks 2024 - 3rd Place</strong></p>
-    <p>Developed NLP models to identify Arabic dialects across 21 countries, designed to improve linguistic recognition and analysis with accuracy reaching 72%. Implemented multi-classifier ensemble with weighted voting and TF-IDF features.</p>
-    <p>
-      <img src="https://img.shields.io/badge/NLP-4285F4?style=flat-square&logo=natural-language-processing&logoColor=white" alt="NLP">
-      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
-      <img src="https://img.shields.io/badge/Ensemble_Learning-3776AB?style=flat-square&logo=python&logoColor=white" alt="Ensemble Learning">
-      <img src="https://img.shields.io/badge/TF--IDF-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TF-IDF">
-    </p>
-    <a href="https://arxiv.org/abs/2407.13608" target="_blank">
-      <img src="https://img.shields.io/badge/Read_Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="Read Paper">
-    </a>
-  </div>
-  
-  <!-- Project 3 -->
-  <div style="border: 1px solid #9D50BB; border-radius: 10px; padding: 15px; margin: 15px; background: linear-gradient(135deg, rgba(109,72,170,0.1) 0%, rgba(157,80,187,0.1) 100%); display: inline-block; width: 85%; max-width: 700px; text-align: left;">
-    <h3 style="color: #9D50BB;">Intracranial Hemorrhage Detection System</h3>
-    <p><strong>Medical Imaging Research</strong></p>
-    <p>Developing deep learning models to identify intracranial hemorrhages from medical images. Analyzing and preprocessing over one million images from the RSNA dataset using big data techniques and computer vision.</p>
-    <p>
-      <img src="https://img.shields.io/badge/Deep_Learning-00AEFF?style=flat-square&logo=deep-learning&logoColor=white" alt="Deep Learning">
-      <img src="https://img.shields.io/badge/Medical_Imaging-16A085?style=flat-square&logo=healthcare&logoColor=white" alt="Medical Imaging">
-      <img src="https://img.shields.io/badge/Big_Data-FF6C37?style=flat-square&logo=apache-spark&logoColor=white" alt="Big Data">
-      <img src="https://img.shields.io/badge/Computer_Vision-4479A1?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision">
-    </p>
-    <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge" alt="Status">
-  </div>
-  
-  <!-- Project 4 -->
-  <div style="border: 1px solid #9D50BB; border-radius: 10px; padding: 15px; margin: 15px; background: linear-gradient(135deg, rgba(109,72,170,0.1) 0%, rgba(157,80,187,0.1) 100%); display: inline-block; width: 85%; max-width: 700px; text-align: left;">
-    <h3 style="color: #9D50BB;">Iris Recognition: Advanced Biometric Identification System</h3>
-    <p><strong>Academic Research Project</strong></p>
-    <p>Developed iris recognition systems using KNN, CNN, and Gabor filters with comprehensive preprocessing including segmentation, achieving up to 98% accuracy rate for biometric identification.</p>
-    <p>
-      <img src="https://img.shields.io/badge/Biometrics-5C2D91?style=flat-square&logo=biometrics&logoColor=white" alt="Biometrics">
-      <img src="https://img.shields.io/badge/CNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="CNN">
-      <img src="https://img.shields.io/badge/KNN-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="KNN">
-      <img src="https://img.shields.io/badge/Image_Processing-4479A1?style=flat-square&logo=opencv&logoColor=white" alt="Image Processing">
-    </p>
-    <img src="https://img.shields.io/badge/Accuracy-98%25-success?style=for-the-badge" alt="Accuracy">
-  </div>
-  
-  <!-- Project 5 -->
-  <div style="border: 1px solid #9D50BB; border-radius: 10px; padding: 15px; margin: 15px; background: linear-gradient(135deg, rgba(109,72,170,0.1) 0%, rgba(157,80,187,0.1) 100%); display: inline-block; width: 85%; max-width: 700px; text-align: left;">
-    <h3 style="color: #9D50BB;">Facial Recognition & Gesture Recognition System</h3>
-    <p><strong>Caisse Nationale des Retraites (CNR)</strong></p>
-    <p>Developed and integrated facial recognition technology for retiree authentication and an AI gesture recognition system with specific training. Created an ergonomic user interface with authentication and file management modules.</p>
-    <p>
-      <img src="https://img.shields.io/badge/Facial_Recognition-4285F4?style=flat-square&logo=google-lens&logoColor=white" alt="Facial Recognition">
-      <img src="https://img.shields.io/badge/Gesture_Recognition-00AEFF?style=flat-square&logo=computer-vision&logoColor=white" alt="Gesture Recognition">
-      <img src="https://img.shields.io/badge/Web_Development-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Web Development">
-      <img src="https://img.shields.io/badge/UI_Design-61DAFB?style=flat-square&logo=react&logoColor=black" alt="UI Design">
-    </p>
-    <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status">
-  </div>
-  
-  <!-- Project 6 -->
-  <div style="border: 1px solid #9D50BB; border-radius: 10px; padding: 15px; margin: 15px; background: linear-gradient(135deg, rgba(109,72,170,0.1) 0%, rgba(157,80,187,0.1) 100%); display: inline-block; width: 85%; max-width: 700px; text-align: left;">
-    <h3 style="color: #9D50BB;">Banking Fraud Detection System</h3>
-    <p><strong>Algeria E-Banking Services – Beyn.io</strong></p>
-    <p>Currently developing an advanced fraud detection system for electronic banking services, implementing machine learning algorithms to identify suspicious patterns and prevent fraudulent transactions.</p>
-    <p>
-      <img src="https://img.shields.io/badge/Fraud_Detection-FF6C37?style=flat-square&logo=databricks&logoColor=white" alt="Fraud Detection">
-      <img src="https://img.shields.io/badge/Banking-6DB33F?style=flat-square&logo=chase&logoColor=white" alt="Banking">
-      <img src="https://img.shields.io/badge/Security-D14836?style=flat-square&logo=security&logoColor=white" alt="Security">
-      <img src="https://img.shields.io/badge/Machine_Learning-3776AB?style=flat-square&logo=python&logoColor=white" alt="Machine Learning">
-    </p>
-    <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge" alt="Status">
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <!-- Project 1 -->
+      <h3 style="color: #9D50BB;">Arabic Handwriting Recognition System</h3>
+      <p><strong>PAIS 2025 International Conference</strong></p>
+      <p>Developed an OCR hybrid system combining CNNs and Transformers for fine classification of handwritten Arabic letters, achieving 96.38% accuracy on the IFN/ENIT dataset using an ensemble model (EfficientNet-B7 + ViT-B16).</p>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+        <img src="https://img.shields.io/badge/Computer_Vision-4479A1?style=flat-square&logo=opencv&logoColor=white">
+        <img src="https://img.shields.io/badge/Transformers-FFD700?style=flat-square&logo=huggingface&logoColor=black">
+      </p>
+      <a href="https://arxiv.org/abs/2503.15023" target="_blank">
+        <img src="https://img.shields.io/badge/Read_Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white">
+      </a>
+    </td>
+    <td>
+      <!-- Project 2 -->
+      <h3 style="color: #9D50BB;">DeepTweet: Arabic Dialect Classification</h3>
+      <p><strong>NADI Shared Tasks 2024 - 3rd Place</strong></p>
+      <p>Developed NLP models to identify Arabic dialects across 21 countries, designed to improve linguistic recognition and analysis with accuracy reaching 72%. Implemented multi-classifier ensemble with weighted voting and TF-IDF features.</p>
+      <p>
+        <img src="https://img.shields.io/badge/NLP-4285F4?style=flat-square&logo=natural-language-processing&logoColor=white">
+        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+        <img src="https://img.shields.io/badge/Ensemble_Learning-3776AB?style=flat-square&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/TF--IDF-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+      </p>
+      <a href="https://arxiv.org/abs/2407.13608" target="_blank">
+        <img src="https://img.shields.io/badge/Read_Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white">
+      </a>
+    </td>
+    <td>
+      <!-- Project 3 -->
+      <h3 style="color: #9D50BB;">Intracranial Hemorrhage Detection System</h3>
+      <p><strong>Medical Imaging Research</strong></p>
+      <p>Developing deep learning models to identify intracranial hemorrhages from medical images. Analyzing and preprocessing over one million images from the RSNA dataset using big data techniques and computer vision.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Deep_Learning-00AEFF?style=flat-square&logo=deep-learning&logoColor=white">
+        <img src="https://img.shields.io/badge/Medical_Imaging-16A085?style=flat-square&logo=healthcare&logoColor=white">
+        <img src="https://img.shields.io/badge/Big_Data-FF6C37?style=flat-square&logo=apache-spark&logoColor=white">
+        <img src="https://img.shields.io/badge/Computer_Vision-4479A1?style=flat-square&logo=opencv&logoColor=white">
+      </p>
+      <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <!-- Project 4 -->
+      <h3 style="color: #9D50BB;">Iris Recognition: Advanced Biometric Identification System</h3>
+      <p><strong>Academic Research Project</strong></p>
+      <p>Developed iris recognition systems using KNN, CNN, and Gabor filters with comprehensive preprocessing including segmentation, achieving up to 98% accuracy rate for biometric identification.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Biometrics-5C2D91?style=flat-square&logo=biometrics&logoColor=white">
+        <img src="https://img.shields.io/badge/CNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+        <img src="https://img.shields.io/badge/KNN-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+        <img src="https://img.shields.io/badge/Image_Processing-4479A1?style=flat-square&logo=opencv&logoColor=white">
+      </p>
+      <img src="https://img.shields.io/badge/Accuracy-98%25-success?style=for-the-badge">
+    </td>
+    <td>
+      <!-- Project 5 -->
+      <h3 style="color: #9D50BB;">Facial Recognition & Gesture Recognition System</h3>
+      <p><strong>Caisse Nationale des Retraites (CNR)</strong></p>
+      <p>Developed and integrated facial recognition technology for retiree authentication and an AI gesture recognition system with specific training. Created an ergonomic user interface with authentication and file management modules.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Facial_Recognition-4285F4?style=flat-square&logo=google-lens&logoColor=white">
+        <img src="https://img.shields.io/badge/Gesture_Recognition-00AEFF?style=flat-square&logo=computer-vision&logoColor=white">
+        <img src="https://img.shields.io/badge/Web_Development-FF2D20?style=flat-square&logo=laravel&logoColor=white">
+        <img src="https://img.shields.io/badge/UI_Design-61DAFB?style=flat-square&logo=react&logoColor=black">
+      </p>
+      <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
+    </td>
+    <td>
+      <!-- Project 6 -->
+      <h3 style="color: #9D50BB;">Banking Fraud Detection System</h3>
+      <p><strong>Algeria E-Banking Services – Beyn.io</strong></p>
+      <p>Currently developing an advanced fraud detection system for electronic banking services, implementing machine learning algorithms to identify suspicious patterns and prevent fraudulent transactions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Fraud_Detection-FF6C37?style=flat-square&logo=databricks&logoColor=white">
+        <img src="https://img.shields.io/badge/Banking-6DB33F?style=flat-square&logo=chase&logoColor=white">
+        <img src="https://img.shields.io/badge/Security-D14836?style=flat-square&logo=security&logoColor=white">
+        <img src="https://img.shields.io/badge/Machine_Learning-3776AB?style=flat-square&logo=python&logoColor=white">
+      </p>
+      <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge">
+    </td>
+  </tr>
+</table>
 
-<br>
 
 <!-- Education & Experience Section -->
 <h2>
