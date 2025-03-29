@@ -101,7 +101,7 @@ Thanks for stopping by.
     </tr>
     <tr>
       <td align="center">
-        <img src="https://media.giphy.com/media/RJVt4jwGVlGhZQtG0D/giphy.gif" width="90" height="90"><br>
+        <img src="/nlp.png" width="90" height="90"><br>
         <strong>Natural Language Processing</strong><br>
         <small>Working with text and language to build intelligent communication systems.</small>
       </td>
