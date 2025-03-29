@@ -84,7 +84,7 @@ Thanks for stopping by.
 
 <div align="center">
   <a>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="ai.png" width="1000" height="1000" alt="Scikit-learn">
   </a>
 </div>
 
