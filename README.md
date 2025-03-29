@@ -194,8 +194,8 @@ Thanks for stopping by.
         <img src="https://img.shields.io/badge/2023--Present-9D50BB?style=for-the-badge" alt="2023-Present">
       </td>
       <td width="80%">
-        <strong style="color: #9D50BB;">Master en Analyse et Sciences de Données</strong><br>
-        Université Benyoucef Benkhedda d'Alger, Algérie<br>
+        <strong style="color: #9D50BB;">Master in Data Analysis and Science</strong><br>
+        University of Benyoucef Benkhedda of Algiers, Algeria<br>
         <small>Advanced studies in data analysis, machine learning, and AI applications</small>
       </td>
     </tr>
@@ -204,8 +204,8 @@ Thanks for stopping by.
         <img src="https://img.shields.io/badge/2020--2023-9D50BB?style=for-the-badge" alt="2020-2023">
       </td>
       <td>
-        <strong style="color: #9D50BB;">Licence en Systèmes Informatiques (SI)</strong><br>
-        Université Benyoucef Benkhedda d'Alger, Algérie<br>
+        <strong style="color: #9D50BB;">Bachelor in Computer Systems (CS)</strong><br>
+        University of Benyoucef Benkhedda of Algiers, Algeria<br>
         <small>Foundation in computer systems, programming, and software development</small>
       </td>
     </tr>
@@ -214,7 +214,7 @@ Thanks for stopping by.
         <img src="https://img.shields.io/badge/2025--Present-6E48AA?style=for-the-badge" alt="2025-Present">
       </td>
       <td>
-        <strong style="color: #9D50BB;">Stagiaire en Solutions d'Intelligence Artificielle</strong><br>
+        <strong style="color: #9D50BB;">Intern in Artificial Intelligence Solutions</strong><br>
         Algeria E-Banking Services – Beyn.io<br>
         <small>Developing fraud detection systems for electronic banking services</small>
       </td>
@@ -224,8 +224,8 @@ Thanks for stopping by.
         <img src="https://img.shields.io/badge/2023-6E48AA?style=for-the-badge" alt="2023">
       </td>
       <td>
-        <strong style="color: #9D50BB;">Stagiaire en Ingénierie Logicielle</strong><br>
-        Caisse Nationale des Retraites (CNR), Alger<br>
+        <strong style="color: #9D50BB;">Intern in Software Engineering</strong><br>
+        National Retirement Fund (CNR), Algiers<br>
         <small>Developed facial and gesture recognition systems for retiree authentication</small>
       </td>
     </tr>
@@ -233,6 +233,7 @@ Thanks for stopping by.
 </div>
 
 <br>
+
 
 <!-- Technologies & Tools Section -->
 <h2>
