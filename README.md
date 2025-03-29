@@ -106,7 +106,7 @@ Thanks for stopping by.
         <small>Working with text and language to build intelligent communication systems.</small>
       </td>
       <td align="center">
-        <img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="90" height="90"><br>
+        <img src="/DS.png" width="90" height="90"><br>
         <strong>Data Science</strong><br>
         <small>Extracting insight, building pipelines, and solving problems with data.</small>
       </td>
