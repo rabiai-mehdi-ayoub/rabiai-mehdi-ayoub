@@ -89,7 +89,7 @@ Thanks for stopping by.
         <small>Building scalable models that learn patterns and adapt to data.</small>
       </td>
       <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="90" height="90"><br>
+        <img src="/vision.png" width="90" height="90"><br>
         <strong>Computer Vision</strong><br>
         <small>Designing systems that extract meaning from images and video.</small>
       </td>
