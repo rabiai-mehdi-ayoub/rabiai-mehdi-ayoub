@@ -157,7 +157,7 @@ Thanks for stopping by.
           <img src="https://img.shields.io/badge/KNN-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
           <img src="https://img.shields.io/badge/Image_Processing-4479A1?style=flat-square&logo=opencv&logoColor=white">
         </p>
-        <img src="https://img.shields.io/badge/Accuracy-98%25-success?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
       </div>
     </td>
     <td>
