@@ -88,7 +88,7 @@ Thanks for stopping by.
 </h2>
 
 <table>
-  <tr>
+  <tr style="background-color: #f9f9f9;">
     <td>
       <div align="center">
         <h3 style="color: #9D50BB;">Arabic Handwriting Recognition System</h3>
