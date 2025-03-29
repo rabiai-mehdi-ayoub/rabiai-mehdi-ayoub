@@ -84,7 +84,7 @@ Thanks for stopping by.
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/gutZ5Pm6Xl62eIf5RZ/giphy.gif" width="90" height="90"><br>
+        <img src="/ML.png" width="90" height="90"><br>
         <strong>Machine Learning</strong><br>
         <small>Building scalable models that learn patterns and adapt to data.</small>
       </td>
