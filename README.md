@@ -111,7 +111,7 @@ Thanks for stopping by.
         <small>Extracting insight, building pipelines, and solving problems with data.</small>
       </td>
       <td align="center">
-        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="90" height="90"><br>
+        <img src="/bio.png" width="90" height="90"><br>
         <strong>Biometric Systems</strong><br>
         <small>Engineering identity solutions using biological signals and secure design.</small>
       </td>
