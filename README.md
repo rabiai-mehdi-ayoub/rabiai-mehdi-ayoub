@@ -1,6 +1,6 @@
 <!-- Header Banner with Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E48AA,100:9D50BB&height=230&section=header&text=Ayoub%20Mehdi%20Rabiai&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Data%20Science%20Student%20|%20AI%20Enthusiast%20|%20Computer%20Vision%20Learner&descAlignY=50&descSize=18" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E48AA,100:9D50BB&height=230&section=header&text=Mehdi%20Ayoub%20Rabiai&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Data%20Science%20Student%20|%20AI%20Enthusiast%20|%20Computer%20Vision%20Learner&descAlignY=50&descSize=18" width="100%" alt="Header Banner"/>
 </div>
 
 
