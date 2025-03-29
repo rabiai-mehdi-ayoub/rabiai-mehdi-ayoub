@@ -67,16 +67,7 @@ Thanks for stopping by.
   Areas of Expertise
 </h2>
 
-<div align="left" style="display: flex;">
-  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="100" height="100" alt="Python">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Dark.svg" width="100" height="100" alt="TensorFlow">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Dark.svg" width="100" height="100" alt="PyTorch">
-<img src="source/keras.svg" width="100" height="100" alt="Keras">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/OpenCV-Dark.svg" width="100" height="100" alt="OpenCV">
-    <img src="source\Scikitlearn.jpg" width="100" height="100" alt="Scikit-learn">
-  </div>
-</div>
+
 
 
 
