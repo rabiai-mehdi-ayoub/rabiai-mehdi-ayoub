@@ -83,42 +83,12 @@ Thanks for stopping by.
 <br>
 
 <div align="center">
-  <table border="0" cellspacing="20" cellpadding="0">
-    <tr>
-      <td align="center" width="33%">
-        <img src="/ML.png" width="90" height="90" style="border-radius:50%;"><br>
-        <strong>Machine Learning</strong><br>
-        <small>Building scalable models that learn patterns and adapt to data.</small>
-      </td>
-      <td align="center" width="33%">
-        <img src="/vision.png" width="90" height="90" style="border-radius:50%;"><br>
-        <strong>Computer Vision</strong><br>
-        <small>Designing systems that extract meaning from images and video.</small>
-      </td>
-      <td align="center" width="33%">
-        <img src="/DEEPLEARNING.png" width="90" height="90" style="border-radius:50%;"><br>
-        <strong>Deep Learning</strong><br>
-        <small>Developing neural architectures for complex, high-dimensional tasks.</small>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="/nlp.png" width="90" height="90" style="border-radius:50%;"><br>
-        <strong>Natural Language Processing</strong><br>
-        <small>Working with text and language to build intelligent communication systems.</small>
-      </td>
-      <td align="center">
-        <img src="/DS.png" width="90" height="90" style="border-radius:50%;"><br>
-        <strong>Data Science</strong><br>
-        <small>Extracting insight, building pipelines, and solving problems with data.</small>
-      </td>
-      <td align="center">
-        <img src="/bio.png" width="90" height="90" style="border-radius:50%;"><br>
-        <strong>Biometric Systems</strong><br>
-        <small>Engineering identity solutions using biological signals and secure design.</small>
-      </td>
-    </tr>
-  </table>
+  <a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+
 </div>
 
 
