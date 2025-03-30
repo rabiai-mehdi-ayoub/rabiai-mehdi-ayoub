@@ -273,12 +273,5 @@ Thanks for stopping by.
 <br>
 
 
-<!-- Footer Section -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E48AA,100:9D50BB&height=120&section=footer" width="100%" alt="Footer Banner"/>
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=9D50BB&center=true&vCenter=true&width=600&lines=The+frog+at+the+bottom+of+the+well+does+not+know+the+depths+of+the+sea,;but+it+knows+the+height+of+the+sky.&repeat=false" alt="Footer Typing SVG" />
-</div>
 
