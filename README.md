@@ -272,6 +272,8 @@ Thanks for stopping by.
 
 <br>
 
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E48AA,100:9D50BB&height=120&section=footer" width="100%" alt="Footer Banner"/>
+</div>
 
 
