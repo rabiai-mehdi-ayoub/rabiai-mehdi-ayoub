@@ -7,9 +7,10 @@
 <!-- Introduction with Typing Animation -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9D50BB&center=true&vCenter=true&width=435&lines=AI+Research+Enthusiast;Curious+Problem+Solver;Continuous+Learner;Aspiring+Researcher;Passionate+About+Innovation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9D50BB&center=true&vCenter=true&width=435&lines=Keep+Leveling+Up" alt="Typing SVG" />
   </a>
 </h1>
+
 
 <!-- Profile Views and GitHub Stats -->
 <div align="center">
