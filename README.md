@@ -40,9 +40,6 @@
 
 
 </div>
-
-
-
 <br>
 
 <!-- About Me Section -->
@@ -67,10 +64,6 @@ Thanks for stopping by.
   Areas of Expertise
 </h2>
 
-
-
-
-
 <div align="center">
   <a>
     <img src="ai.png" width="900" height="600" alt="Scikit-learn">
@@ -79,8 +72,6 @@ Thanks for stopping by.
 
 
 </div>
-
-
 
 <h2>
   Featured Projects
@@ -287,27 +278,7 @@ Thanks for stopping by.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E48AA,100:9D50BB&height=120&section=footer" width="100%" alt="Footer Banner"/>
 </div>
 
-<!-- Typing Animation Triggered on Scroll -->
-<div align="center" id="footer-typing" style="min-height: 40px;">
-  <!-- Placeholder, real image will load via JS -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=9D50BB&center=true&vCenter=true&width=600&lines=The+frog+at+the+bottom+of+the+well+does+not+know+the+depths+of+the+sea,+but+it+knows+the+height+of+the+sky.&repeat=false" alt="Footer Typing SVG" />
 </div>
 
-<script>
-  // Observe when the footer typing div is in view
-  const observer = new IntersectionObserver(
-    (entries, observer) => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          const container = document.getElementById("footer-typing");
-          container.innerHTML = `
-            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=9D50BB&center=true&vCenter=true&width=500&lines=The+frog+at+the+bottom+of+the+well+does+not+know+the+depths+of+the+sea,+but+it+knows+the+height+of+the+sky.&repeat=false" alt="Footer Typing SVG" />
-          `;
-          observer.unobserve(entry.target); // Only run once
-        }
-      });
-    },
-    { threshold: 0.6 }
-  );
-
-  observer.observe(document.getElementById("footer-typing"));
-</script>
