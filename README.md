@@ -52,8 +52,6 @@ Hey there, and welcome.
 
 I’m Mehdi Ayoub Rabiai—a data scientist, a builder, and a believer in using technology to make something better, even if it's just one small part of the world. I’m passionate about AI not just because it’s powerful, but because it’s a space where curiosity, creativity, and discipline all collide. And in that collision, I’ve found something that feels like home.
 
-I don’t have all the answers, and I never claim to. I ask questions, I make mistakes, and I learn—always. I believe in putting in the work quietly, letting results speak, and lifting others when I can.
-
 This GitHub is where I share things I’ve built, ideas I’ve explored, and projects that challenged me to grow. Some of it’s polished. Some of it’s scrappy. But all of it is real.
 
 Thanks for stopping by.
