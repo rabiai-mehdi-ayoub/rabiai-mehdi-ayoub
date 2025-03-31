@@ -156,7 +156,6 @@ Thanks for stopping by.
     <td>
       <div align="center">
         <h3 style="color: #9D50BB;">Banking Fraud Detection System</h3>
-        <p><strong>Algeria E-Banking Services – Beyn.io</strong></p>
         <p>Currently developing an advanced fraud detection system for electronic banking services, implementing machine learning algorithms to identify suspicious patterns and prevent fraudulent transactions.</p>
         <p>
           <img src="https://img.shields.io/badge/Fraud_Detection-FF6C37?style=flat-square&logo=databricks&logoColor=white">
